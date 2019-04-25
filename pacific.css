@@ -1,17 +1,44 @@
 /*
 Project Name: Pacific Trails Website (HW10)
 Author: Megan Worry 
-Date Last Modified: April 4, 2019
+Date Last Modified: April 24, 2019
 Pacific Trails is beautiful.
 */
-<style>
-#container{margin-left: auto; margin-right: auto; width :80%;}
-body{background-color:#FFFFFF;
-text-color:#666666;font-family:Verdana,Arial,sans-serif;}
-header{background-color#000033;text-color #FFFFFF; font-family: Georgia,"Times New Roman",serif;}
+
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+body { 
+	background-color: #FFFFFF;
+	color: #666666;
+	font-family: Verdana, Arial, sans-serif;
+}
+header { 
+	background-color: #000033;
+	color: #FFFFFF
+	font-family: Georgia, "Times New Roman", serif;
+}
 h1{line-height: 200%;}
-nav{background color:#90C7E3;font-weight:bold;}
-h2{text-color:#3399CC; font-family: Georgia,"Times New Roman",serif;}
-dt{text-color#000033;font-weight:bold;}
-.resort{color:#000033; font-size:1.2cm;}
-footer{font-size:.70cm;font-style:italic;text-align:center;}
+nav { 
+	background-color: #90C7E3;
+	font-weight: bold;
+}
+h2 { 
+	color: #3399CC; 
+	font-family: Georgia, "Times New Roman", serif;
+}
+dt { 
+	color: #000033;
+	font-weight: bold;
+}
+.resort {
+	color: #000033; 
+	font-size: 1.2em;
+}
+footer { 
+	font-size: .70em;
+	font-style: italic;
+	text-align: center;
+}
